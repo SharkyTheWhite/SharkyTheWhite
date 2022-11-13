@@ -1,4 +1,17 @@
-Hewo, I’m Sharky 👋 
+# Hewo, I’m Sharky 👋 
+
+I am a German furry engineer/programmer and gamer.
+
+## Socials
+
+- 🐦 Twitter: [@SharkyTheWhite](https://twitter.com/SharkyTheWhite)
+- 🐾 Furaffinity: [~sharkythewhite](https://www.furaffinity.net/user/sharkythewhite)
+
+---
+
+*Profile picture credit: own render, base model by [@Kreic3D](https://twitter.com/Kreic3D)*
+
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
