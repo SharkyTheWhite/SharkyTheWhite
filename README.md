@@ -4,11 +4,12 @@ I am a German furry engineer/programmer and gamer.
 
 ## Socials
 
-- 🐦 Twitter: [@SharkyTheWhite](https://twitter.com/SharkyTheWhite)
 - 🏙️ BlueSky: [@sharkythewhite.eu](https://bsky.app/profile/sharkythewhite.eu)
 - 🐾 Furaffinity: [~sharkythewhite](https://www.furaffinity.net/user/sharkythewhite)
 - 📷 Instagram: [@SharkyThe**Wolf**](https://www.instagram.com/sharkythewolf) (yes that name was taken 🙃)
 - 🚂 Steam: [SharkyTheWhite](https://steamcommunity.com/id/SharkyTheWhite)
+
+- Inactive: ☠️ "Twitter": [@SharkyTheWhite](https://twitter.com/SharkyTheWhite)
 
 ---
 
